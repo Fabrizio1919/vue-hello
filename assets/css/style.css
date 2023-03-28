@@ -1,13 +1,16 @@
 body {
-    background-color: #6889ac
+    background-color: #6889ac;
+    background-image:url(https://a-static.besthdwallpaper.com/avatar-2-wallpaper-1920x1080-84374_48.jpg);
+    background-size: cover;
 }
+
+
 
 
 img {
     max-width: 50%;
     padding: 10px;
-     box-shadow:  3px 3px #ededed, -1em 0 .4em #ededed;; 
-  /*   box-shadow: 22px 20px 10px 6px #ededed; */
+    box-shadow: 0px 0px #ededed, 0em 0 6.4em #ededed;
 }
 
 p {
